@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="pikachu">Pikachu</string>
+    <string name="bulbasaur">Bulbasaur</string>
+    <string name="charmander">Charmander</string>
+    <string name="squirtle">Squirtle</string>
+    <string name="chikorita">Chikorita</string>
+    <string name="cyndaquil">Cyndaquil</string>
+    <string name="totodile">Totodile</string>
+
+    <string name="firstInGame_pikachu">Pokémon Red and Green</string>
+    <string name="firstInGame_bulbasaur">Pokémon Red and Green</string>
+    <string name="firstInGame_charmander">Pokémon Red and Green</string>
+    <string name="firstInGame_squirtle">Pokémon Red and Green</string>
+    <string name="firstInGame_chikorita">Pokémon Gold and Silver</string>
+    <string name="firstInGame_cyndaquil">Pokémon Gold and Silver</string>
+    <string name="firstInGame_totodile">Pokémon Gold and Silver</string>
+
+    <string name="id_pikachu">001</string>
+    <string name="id_bulbasaur">002</string>
+    <string name="id_charmander">003</string>
+    <string name="id_squirtle">004</string>
+    <string name="id_chikorita">005</string>
+    <string name="id_cyndaquil">006</string>
+    <string name="id_totodile">007</string>
+
+</resources>
